@@ -1,2 +1,2 @@
 # skr_uni
-writedown something within sakura university
+Writedown something within sakura university
